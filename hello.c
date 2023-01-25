@@ -2,6 +2,8 @@
 
 int main()
 {
-printf("HelloWorld");
+for(int i=0; i<10; i++)
+{ 
+printf("Helloworld\n");
 }
-
+}
